@@ -50,12 +50,6 @@
 
 ---
 
-## 🚧 Project Status
-
-🔨 Currently working on database integration and advanced features
-
----
-
 ## 👨‍💻 Author
 
 **Yashraj Vyas**
