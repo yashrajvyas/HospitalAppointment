@@ -22,7 +22,7 @@
 
 * ☕ Java
 * 🌱 Spring Boot
-* 🗄️ MySQL *(In Progress)*
+* 🗄️ MySQL 
 * 🔗 Spring Data JPA
 * 📦 ModelMapper
 * 📬 Postman
